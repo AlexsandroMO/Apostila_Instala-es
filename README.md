@@ -1,2 +1,2 @@
-# Apostila_Instala-es
-Apostila de instalações elétricas interativa
+# Electrical_Installation_Bet
+Interactive electrical installation betting
